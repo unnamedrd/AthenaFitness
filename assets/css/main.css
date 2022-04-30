@@ -1352,7 +1352,13 @@ input, select, textarea {
 				color: #ffffff;
 			}*/
 
-			.wrapper.style1 h2, .wrapper.style1 h3, .wrapper.style1 h4, .wrapper.style1 h5, .wrapper.style1 h6 {
+			.wrapper.style1 h2{
+				color: var(--clr-accent5);
+				font-family: var(--ff-tertiary);
+				font-weight: var(--fw-extrabold);
+				border-bottom: 3px solid var(--clr-accent1);
+			}
+			.wrapper.style1 h3, .wrapper.style1 h4, .wrapper.style1 h5, .wrapper.style1 h6 {
 				color: #ffffff;
 			}
 
