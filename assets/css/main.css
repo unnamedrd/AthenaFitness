@@ -878,6 +878,13 @@ input, select, textarea {
 				padding-right: 3.5em;
 			}
 
+			.label{
+				flex-wrap: wrap;
+				width: 50px;
+				color: var(--clr-accent2)
+			}
+           
+           
 				@media screen and (max-width: 736px) {
 
 					ul.icons.major li {
