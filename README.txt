@@ -9,15 +9,14 @@ and an assortment of pre-styled elements. So, pretty much what you were expectin
 
 - It's built with components from my Responsive Tools project.
 
-- It uses flexbox, which eliminates all kinds of terrible hacks and clunky layout
-  stopgaps (like CSS grid systems).
+- It uses flexbox,
 
 - It uses Sass* a lot more intelligently, thanks in part to several new mixins
-  and functions I've been working on (as well as a few by @HugoGiraudel).
+  and functions
 
   (* = still entirely optional if you prefer vanilla CSS :)
 
-- A ton of other stuff.
+
 
 In short, Spectral's the culmination of several new things I'm working on/trying out,
 so please, let me know what you think :)
