@@ -16,8 +16,6 @@ and an assortment of pre-styled elements. So, pretty much what you were expectin
 
   (* = still entirely optional if you prefer vanilla CSS :)
 
-
-
 In short, Spectral's the culmination of several new things I'm working on/trying out,
 so please, let me know what you think :)
 
@@ -27,7 +25,7 @@ you can use for pretty much whatever.
 (* = not included)
 
 AJ
-aj@lkn.io | @ajlkn
+aj@lkn.io 
 
 
 Credits:
